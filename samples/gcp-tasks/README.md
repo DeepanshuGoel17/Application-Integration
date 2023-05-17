@@ -41,4 +41,4 @@ Note: If you do want to use the GCS bucket. You can directly use the Base64 cont
     - Click Done.
 10. Test the integration!!
 
-See more information on the GCP tasks in Application Integration [here](http://releasenote.com). 
+See more information on the GCP tasks in Application Integration [here](). 
