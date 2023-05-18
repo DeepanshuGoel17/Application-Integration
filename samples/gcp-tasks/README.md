@@ -19,7 +19,8 @@ Note: If you do want to use the GCS bucket. You can directly use the Base64 cont
     - Select `DownloadObject`.
     - Click Done.
 5. Configure the task name `Doc AI - Process (Preview)`.
-    - Add `Region`, `ProjectId` & `Processorsid`.
+    - Add `Region`, `ProjectId` & `Processorsid` details.
+    - Select or create a new `Auth profile`.
 6. Configure the `Send Email` task. 
     - Add email address to the `To Recipient(s)` field (which will receieve email in case it is not a claim).
 7. Now we are alomst complete. Please feel free to skip the next steps if you want to process a claim in different way. 
