@@ -42,4 +42,4 @@ Note: If you don't want to use the GCS bucket. You can directly use the Base64 c
     - Click Done.
 10. Test the integration!!
 
-See more information on the GCP services as lite-connectors in Application Integration [here](). 
+See more information on the GCP services as Lite Connectors in Application Integration [here](). 
